@@ -71,8 +71,8 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
     </td>
 
     <td align="center" width="250px">
-      <a href="https://github.com/YOUR_USERNAME_2">
-        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%" alt="Member 2"/>
+      <a href="https://github.com/YOUR_USERNAME_1">
+        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%" alt="Member 1"/>
         <br />
         <br />
         <b>[Student Name 2]</b>
