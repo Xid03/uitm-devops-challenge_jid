@@ -50,6 +50,7 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
   <i>"United by Code, Secured by Logic"</i>
 </p>
 
+<table align="center">
   <tr>
     <td align="center" width="300px">
       <a href="https://github.com/YOUR_USERNAME_1">
@@ -82,7 +83,24 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
         <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI-blue?style=flat-square&logo=react" alt="Role">
       </a>
     </td>
+
+     <td align="center" width="300px">
+      <a href="https://github.com/YOUR_USERNAME_2">
+        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120" style="border-radius:50%" alt="Member 3"/>
+        <br />
+        <br />
+        <b>[Student Name 3]</b>
+      </a>
+      <br />
+      <sub>Student ID: 2023xxxxxx</sub>
+      <br />
+      <br />
+      <a href="https://github.com/YOUR_USERNAME_3">
+        <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI-blue?style=flat-square&logo=react" alt="Role">
+      </a>
+    </td>
   </tr>
+  </table>
 ---
 
 ## 🛠️ Tech Stack
