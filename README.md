@@ -45,7 +45,6 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
 * **AI-Driven Defense:** Proactive anomaly detection.
 
 ---
-
 <h2 align="center" id="-the-security-squad">💻 The Security Squad</h2>
 <p align="center">
   <i>"United by Code, Secured by Logic"</i>
@@ -53,7 +52,7 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
 
 <table align="center">
   <tr>
-    <td align="center" width="250px">
+    <td align="center" width="300px">
       <a href="https://github.com/YOUR_USERNAME_1">
         <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120" style="border-radius:50%" alt="Member 1"/>
         <br />
@@ -69,7 +68,7 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
       </a>
     </td>
 
-    <td align="center" width="250px">
+    <td align="center" width="300px">
       <a href="https://github.com/YOUR_USERNAME_2">
         <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120" style="border-radius:50%" alt="Member 2"/>
         <br />
@@ -84,24 +83,9 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
         <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI-blue?style=flat-square&logo=react" alt="Role">
       </a>
     </td>
-
-    <td align="center" width="250px">
-      <a href="https://github.com/YOUR_USERNAME_3">
-        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120" style="border-radius:50%" alt="Member 3"/>
-        <br />
-        <br />
-        <b>[Student Name 3]</b>
-      </a>
-      <br />
-      <sub>Student ID: 2023xxxxxx</sub>
-      <br />
-      <br />
-      <a href="https://github.com/YOUR_USERNAME_3">
-        <img src="https://img.shields.io/badge/Focus-AI%20%26%20DevOps-green?style=flat-square&logo=githubactions" alt="Role">
-      </a>
-    </td>
   </tr>
 </table>
+
 ---
 
 ## 🛠️ Tech Stack
