@@ -51,12 +51,11 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
   <i>"United by Code, Secured by Logic"</i>
 </p>
 
-<!-- This table ensures the team members are displayed side-by-side -->
 <table align="center">
   <tr>
     <td align="center" width="250px">
       <a href="https://github.com/YOUR_USERNAME_1">
-        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%" alt="Member 1"/>
+        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%; border: 2px solid #e1e4e8;" alt="Member 1"/>
         <br />
         <br />
         <b>[Student Name 1]</b>
@@ -71,8 +70,8 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
     </td>
 
     <td align="center" width="250px">
-      <a href="https://github.com/YOUR_USERNAME_1">
-        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%" alt="Member 1"/>
+      <a href="https://github.com/YOUR_USERNAME_2">
+        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%; border: 2px solid #e1e4e8;" alt="Member 2"/>
         <br />
         <br />
         <b>[Student Name 2]</b>
@@ -88,7 +87,7 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
 
     <td align="center" width="250px">
       <a href="https://github.com/YOUR_USERNAME_3">
-        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%" alt="Member 3"/>
+        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%; border: 2px solid #e1e4e8;" alt="Member 3"/>
         <br />
         <br />
         <b>[Student Name 3]</b>
