@@ -37,7 +37,7 @@
 
 ## 📖 About The Project
 
-This repository constitutes our official submission for the **Mobile SecOps 21 Days Challenge** organized by **UiTM Cawangan Perak** and **Metairflow R&D Sdn. [cite_start]Bhd.**[cite: 1, 4, 5].
+This repository constitutes our official submission for the **Mobile SecOps 21 Days Challenge** organized by **UiTM Cawangan Perak** and **Metairflow R&D Sdn. Bhd.**
 
 Our mission was to simulate a real **DevSecOps environment** using the Rentverse architecture. We have engineered a secure mobile prototype that prioritizes:
 * **Front-end Usability:** Seamless user experience.
@@ -55,7 +55,7 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
   <tr>
     <td align="center" width="250px">
       <a href="https://github.com/YOUR_USERNAME_1">
-        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%" alt="Member 1"/>
+        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120" style="border-radius:50%" alt="Member 1"/>
         <br />
         <br />
         <b>[Student Name 1]</b>
@@ -71,7 +71,7 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
 
     <td align="center" width="250px">
       <a href="https://github.com/YOUR_USERNAME_2">
-        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%" alt="Member 2"/>
+        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120" style="border-radius:50%" alt="Member 2"/>
         <br />
         <br />
         <b>[Student Name 2]</b>
@@ -87,7 +87,7 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
 
     <td align="center" width="250px">
       <a href="https://github.com/YOUR_USERNAME_3">
-        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%" alt="Member 3"/>
+        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120" style="border-radius:50%" alt="Member 3"/>
         <br />
         <br />
         <b>[Student Name 3]</b>
@@ -119,7 +119,7 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
 
 ## 🚀 Core Modules Implementation
 
-[cite_start]We have successfully implemented all 5 core modules required by the challenge pack[cite: 42].
+We have successfully implemented all 5 core modules required by the challenge pack.
 
 ### 1. 🔐 Secure Login & MFA
 > **Focus:** Authentication & Authorization (OWASP M1-M3)
@@ -152,7 +152,7 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
 
 ## 💡 Innovation Features (Bonus)
 
-[cite_start]To compete for the **Feature Innovation Pool (RM 2,000)**, we went beyond the basics[cite: 49, 52]:
+To compete for the **Feature Innovation Pool (RM 2,000)**, we went beyond the basics:
 
 ### 🛡️ Threat Intelligence System
 * **What it does:** Uses a lightweight AI model to analyze access logs.
@@ -219,7 +219,7 @@ To run this project locally, follow these steps:
 
 ## 📂 Deliverables & Submission
 
-[cite_start]This repository contains all required deliverables[cite: 60]:
+This repository contains all required deliverables:
 
 * [x] **Source Code:** Complete codebase pushed to `main` branch.
 * [x] **App Build:** `.apk` file located in `/release` folder.
