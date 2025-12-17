@@ -50,7 +50,6 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
   <i>"United by Code, Secured by Logic"</i>
 </p>
 
-<table align="center">
   <tr>
     <td align="center" width="300px">
       <a href="https://github.com/YOUR_USERNAME_1">
@@ -84,7 +83,6 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
       </a>
     </td>
   </tr>
-</table>
 ---
 
 ## 🛠️ Tech Stack
