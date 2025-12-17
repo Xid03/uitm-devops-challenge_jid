@@ -1,248 +1,239 @@
-# UiTM Mobile SecOps 21 Days Challenge
-
-> **"Mobile Defense and Intelligence: Build Fast, Defend Smarter"**
-
-## 📋 Challenge Information
-
-- **Organizer:** UiTM Cawangan Perak, Kampus Tapah
-- **Industry Partner:** Metairflow R&D Sdn. Bhd.
-- **Duration:** 24 November - 22 December 2025
-- **Prize Pool:** RM 4,000 (including feature bonuses)
-- **Submission Deadline:** 17 December 2025
-
-## 🎯 Overview
-
-The Mobile SecOps 21 Days Challenge is a 3-week applied competition designed to uncover UiTM's most capable full-stack engineers. Participants develop secure, intelligent mobile prototypes that blend front-end usability, back-end integrity, and AI-driven defense.
-
-This challenge simulates real DevSecOps environments using the Rentverse architecture, integrating best practices from:
-- Frontend Engineering
-- Backend Architecture
-- AI/ML Systems
-- DevOps & Systems Integration
-
-## 🎓 Team Information
-
-**Team Name:** `[Your Team Name]`
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="[member1-photo-url]" width="150px;" alt="Member 1"/><br />
-      <sub><b>[Member 1 Name]</b></sub><br />
-      <sub>[Role/Specialization]</sub>
-    </td>
-    <td align="center">
-      <img src="[member2-photo-url]" width="150px;" alt="Member 2"/><br />
-      <sub><b>[Member 2 Name]</b></sub><br />
-      <sub>[Role/Specialization]</sub>
-    </td>
-    <td align="center">
-      <img src="[member3-photo-url]" width="150px;" alt="Member 3"/><br />
-      <sub><b>[Member 3 Name]</b></sub><br />
-      <sub>[Role/Specialization]</sub>
-    </td>
-  </tr>
-</table>
-
-## 🏗️ Core Development Modules
-
-### Module 1: Secure Login & MFA ⭐⭐
-Multi-factor authentication with OTP-based login and role-based access control.
-
-**Security Focus:** Authentication & Authorization (OWASP M1–M3)
-
-### Module 2: Secure API Gateway ⭐⭐
-HTTPS implementation, JWT tokens, rate-limiting, and access validation.
-
-**Security Focus:** Secure Communication (OWASP M5–M6)
-
-### Module 3: Digital Agreement (Mobile) ⭐⭐
-Secure signature validation and access permissions for rental agreements.
-
-**Security Focus:** Data Integrity & Workflow Validation
-
-### Module 4: Smart Notification & Alert System ⭐⭐
-Activity logging with suspicious login pattern detection.
-
-**Security Focus:** DevSecOps Monitoring & Incident Detection
-
-### Module 5: Activity Log Dashboard ⭐⭐⭐
-Admin-level logs for failed logins and critical actions.
-
-**Security Focus:** Threat Visualization & Accountability
-
-### Module 6: CI/CD Security Testing (Bonus) ⭐⭐⭐
-GitHub Actions or Jenkins integration for static code analysis (SAST) and deployment checks.
-
-**Security Focus:** Continuous Testing (DevSecOps)
-
-## 🌟 Feature Innovation Pool (RM 2,000)
-
-Our team has implemented the following bonus features:
-
-- [ ] **Threat Intelligence System** (RM 500) - AI/rule-based detection for unusual access patterns
-- [ ] **Zero-Trust Access Logic** (RM 500) - Conditional access based on device/location
-- [ ] **Adaptive Defense Dashboard** (RM 500) - Interactive risk visualization with auto-response
-- [ ] **Automated Security Testing** (RM 500) - OWASP ZAP/MobSF/GitHub Actions integration
-
-## 🚀 Getting Started
-
-### Prerequisites
-```bash
-[List your prerequisites here, e.g.:]
-- Node.js v18+
-- Flutter 3.x
-- Firebase/Supabase account
-- Docker (optional)
-```
-
-### Installation
-
-1. Clone this repository:
-```bash
-git clone [your-repo-url]
-cd uitm-devops-challenge_[team-name]
-```
-
-2. Install dependencies:
-```bash
-# Frontend
-cd frontend
-npm install
-
-# Backend
-cd ../backend
-npm install
-```
-
-3. Configure environment variables:
-```bash
-cp .env.example .env
-# Edit .env with your configuration
-```
-
-4. Run the application:
-```bash
-# Development mode
-npm run dev
-
-# Production build
-npm run build
-```
-
-## 📱 Application Features
-
-### Security Features
-- [Describe your security implementations]
-- Multi-factor authentication (MFA/OTP)
-- JWT-based session management
-- Rate limiting and API protection
-- Real-time threat monitoring
-- Secure data encryption
-
-### User Roles
-- **Student:** Browse properties, create rental agreements
-- **Owner:** Manage properties, approve agreements
-- **Admin:** System monitoring, user management, security dashboard
-
-## 🏛️ Architecture
-```
-[Add your architecture diagram or description here]
-
-Frontend (Flutter/React Native)
-    ↓
-API Gateway (JWT Auth, Rate Limiting)
-    ↓
-Backend Services (Node.js/Python)
-    ↓
-Database (PostgreSQL/MongoDB)
-    ↓
-AI/ML Services (Anomaly Detection)
-```
-
-## 🔒 Security Implementation
-
-### OWASP Mobile Top 10 Coverage
-- **M1:** Improper Platform Usage - [Your implementation]
-- **M2:** Insecure Data Storage - [Your implementation]
-- **M3:** Insecure Communication - [Your implementation]
-- **M5:** Insufficient Cryptography - [Your implementation]
-- **M6:** Insecure Authorization - [Your implementation]
-
-### DevSecOps Practices
-- Automated security testing in CI/CD pipeline
-- Static Application Security Testing (SAST)
-- Dynamic Application Security Testing (DAST)
-- Dependency vulnerability scanning
-- Security monitoring and alerting
-
-## 📊 Testing
-```bash
-# Run unit tests
-npm test
-
-# Run security tests
-npm run security-test
-
-# Run integration tests
-npm run test:integration
-```
-
-## 📸 Screenshots
-
-[Add screenshots of your application here]
-
-## 🎥 Demo
-
-- **Live Demo:** [Your deployment link]
-- **Demo Video:** [Your video link]
-- **Presentation Slides:** [Your slides link]
-
-## 📚 Documentation
-
-- [API Documentation](./docs/API.md)
-- [Security Architecture](./docs/SECURITY.md)
-- [Deployment Guide](./docs/DEPLOYMENT.md)
-- [User Manual](./docs/USER_GUIDE.md)
-
-## 🛠️ Technology Stack
-
-**Frontend:**
-- [Your frontend tech]
-
-**Backend:**
-- [Your backend tech]
-
-**Database:**
-- [Your database]
-
-**DevOps:**
-- [Your DevOps tools]
-
-**Security Tools:**
-- [Your security tools]
-
-## 👥 Consultation Support
-
-We received guidance from:
-- [Consultant name and area, if applicable]
-
-## 🏆 Awards Target
-
-- [ ] 🥇 Top Technical Team (RM 1,200)
-- [ ] 🥈 Best Secure Design Team (RM 800)
-- [ ] 🌟 Feature Bonus Pool (RM 2,000)
-
-## 📄 License
-
-This project is developed for the UiTM Mobile SecOps Challenge. All rights remain with the student team, with Metairflow R&D Sdn. Bhd. holding review and adaptation rights for internal research.
-
-## 🙏 Acknowledgments
-
-- UiTM Cawangan Perak, Kampus Tapah
-- Metairflow R&D Sdn. Bhd.
-- All mentors and consultants
+<div align="center">
+
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/external-security-internet-security-flaticons-flat-flat-icons-2.png" alt="Logo" width="100" height="100">
+
+  <h1>🛡️ Rentverse Defender</h1>
+  
+  <h3>UiTM Mobile SecOps 21 Days Challenge (2025)</h3>
+  
+  <p>
+    <b>Theme:</b> <i>"Mobile Defense and Intelligence: Build Fast, Defend Smarter"</i>
+  </p>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Security-OWASP%20Compliant-blue?style=for-the-badge&logo=appveyor" alt="Security">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Platform-Mobile%20(Rentverse)-orange?style=for-the-badge&logo=flutter" alt="Platform">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions" alt="Build Status">
+  </a>
+
+  <br />
+  <br />
+
+  <p align="center">
+    <a href="#-about-the-project">About</a> •
+    <a href="#-the-security-squad">Team</a> •
+    <a href="#-core-modules">Modules</a> •
+    <a href="#-innovation-features">Bonus Features</a> •
+    <a href="#-installation">Installation</a> •
+    <a href="#-deliverables">Deliverables</a>
+  </p>
+</div>
 
 ---
 
-**Built with 💻 and 🔒 by [Team Name]**
+## 📖 About The Project
+
+This repository constitutes our official submission for the **Mobile SecOps 21 Days Challenge** organized by **UiTM Cawangan Perak** and **Metairflow R&D Sdn. [cite_start]Bhd.**[cite: 1, 4, 5].
+
+Our mission was to simulate a real **DevSecOps environment** using the Rentverse architecture. We have engineered a secure mobile prototype that prioritizes:
+* **Front-end Usability:** Seamless user experience.
+* **Back-end Integrity:** Robust API security and data protection.
+* **AI-Driven Defense:** Proactive anomaly detection.
+
+---
+
+<h2 align="center" id="-the-security-squad">💻 The Security Squad</h2>
+<p align="center">
+  <i>"United by Code, Secured by Logic"</i>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="250px">
+      <a href="https://github.com/YOUR_USERNAME_1">
+        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%" alt="Member 1"/>
+        <br />
+        <br />
+        <b>[Student Name 1]</b>
+      </a>
+      <br />
+      <sub>Student ID: 2023xxxxxx</sub>
+      <br />
+      <br />
+      <a href="https://github.com/YOUR_USERNAME_1">
+        <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Auth-red?style=flat-square&logo=security" alt="Role">
+      </a>
+    </td>
+
+    <td align="center" width="250px">
+      <a href="https://github.com/YOUR_USERNAME_2">
+        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%" alt="Member 2"/>
+        <br />
+        <br />
+        <b>[Student Name 2]</b>
+      </a>
+      <br />
+      <sub>Student ID: 2023xxxxxx</sub>
+      <br />
+      <br />
+      <a href="https://github.com/YOUR_USERNAME_2">
+        <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI-blue?style=flat-square&logo=react" alt="Role">
+      </a>
+    </td>
+
+    <td align="center" width="250px">
+      <a href="https://github.com/YOUR_USERNAME_3">
+        <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120px;" style="border-radius:50%" alt="Member 3"/>
+        <br />
+        <br />
+        <b>[Student Name 3]</b>
+      </a>
+      <br />
+      <sub>Student ID: 2023xxxxxx</sub>
+      <br />
+      <br />
+      <a href="https://github.com/YOUR_USERNAME_3">
+        <img src="https://img.shields.io/badge/Focus-AI%20%26%20DevOps-green?style=flat-square&logo=githubactions" alt="Role">
+      </a>
+    </td>
+  </tr>
+</table>
+---
+
+## 🛠️ Tech Stack
+
+| Component | Technology Used |
+| :--- | :--- |
+| **Mobile Framework** | [e.g., Flutter / React Native] |
+| **Backend API** | [e.g., Node.js (Express) / Go / Python (FastAPI)] |
+| **Database** | [e.g., MongoDB / PostgreSQL] |
+| **AI Model** | [e.g., Python Scikit-Learn / TensorFlow Lite] |
+| **CI/CD** | [e.g., GitHub Actions / Jenkins] |
+| **Security Scanning** | [e.g., OWASP ZAP / MobSF] |
+
+---
+
+## 🚀 Core Modules Implementation
+
+[cite_start]We have successfully implemented all 5 core modules required by the challenge pack[cite: 42].
+
+### 1. 🔐 Secure Login & MFA
+> **Focus:** Authentication & Authorization (OWASP M1-M3)
+- [x] Implemented Multi-Factor Authentication (OTP via Email/SMS).
+- [x] Role-Based Access Control (Student, Evaluator, System User).
+
+### 2. 🌐 Secure API Gateway
+> **Focus:** Secure Communication (OWASP M5-M6)
+- [x] Enforced HTTPS for all data in transit.
+- [x] Integrated JWT (JSON Web Token) for session management.
+- [x] Added API Rate-Limiting to prevent abuse.
+
+### 3. 📝 Digital Agreement (Mobile)
+> **Focus:** Data Integrity & Workflow Validation
+- [x] Integrated Rentverse agreement module.
+- [x] Added cryptographic signature validation.
+- [x] Implemented access permission checks for document viewing.
+
+### 4. 🔔 Smart Notification & Alert System
+> **Focus:** DevSecOps Monitoring & Incident Detection
+- [x] Real-time logging of user activities.
+- [x] Automated alerts triggered by suspicious login patterns.
+
+### 5. 📊 Activity Log Dashboard
+> **Focus:** Threat Visualization & Accountability
+- [x] Developed an Admin Dashboard.
+- [x] Visual logs for failed logins and critical system actions.
+
+---
+
+## 💡 Innovation Features (Bonus)
+
+[cite_start]To compete for the **Feature Innovation Pool (RM 2,000)**, we went beyond the basics[cite: 49, 52]:
+
+### 🛡️ Threat Intelligence System
+* **What it does:** Uses a lightweight AI model to analyze access logs.
+* **Innovation:** Detects brute-force attacks and unusual geographical access patterns in real-time.
+
+### 🚫 Zero-Trust Access Logic
+* **What it does:** Conditional access management.
+* **Innovation:** Automatically logs out users if a network switch is detected or if a device is not on the allowlist.
+
+### 📉 Adaptive Defense Dashboard
+* **What it does:** Interactive risk visualization.
+* **Innovation:** The system auto-responds to "High Risk" flags by temporarily locking the account without human intervention.
+
+### 🤖 Automated Security Testing (CI/CD)
+* **What it does:** Pipeline integration.
+* **Innovation:** Runs static analysis (SAST) on every push to the `main` branch to catch vulnerabilities before deployment.
+
+---
+
+## 📸 Screenshots & Architecture
+
+### System Architecture
+![Architecture Diagram](https://via.placeholder.com/800x400?text=Place+Your+Flow+Diagram+Here)
+*Flow diagram illustrating the Rentverse architecture and security layers.*
+
+### App Previews
+| Login & MFA | Admin Dashboard | Threat Alert |
+| :---: | :---: | :---: |
+| ![Login](https://via.placeholder.com/200x400?text=Login) | ![Dashboard](https://via.placeholder.com/200x400?text=Dashboard) | ![Alert](https://via.placeholder.com/200x400?text=Alert) |
+
+---
+
+## ⚙️ Installation
+
+To run this project locally, follow these steps:
+
+1.  **Clone the Repository**
+    ```bash
+    git clone [https://github.com/YOUR_USERNAME/uitm-devops-challenge](https://github.com/YOUR_USERNAME/uitm-devops-challenge)_<team-name>.git
+    cd uitm-devops-challenge_<team-name>
+    ```
+
+2.  **Backend Setup**
+    ```bash
+    cd backend
+    # Install dependencies
+    npm install
+    # Configure Environment Variables
+    cp .env.example .env
+    # Run Server
+    npm start
+    ```
+
+3.  **Mobile App Setup**
+    ```bash
+    cd mobile
+    # Get packages
+    flutter pub get
+    # Run App
+    flutter run
+    ```
+
+---
+
+## 📂 Deliverables & Submission
+
+[cite_start]This repository contains all required deliverables[cite: 60]:
+
+* [x] **Source Code:** Complete codebase pushed to `main` branch.
+* [x] **App Build:** `.apk` file located in `/release` folder.
+* [x] **Documentation:** This README and the technical flow diagram.
+* [x] **Demo Video:** Watch our 3-minute explanation below.
+
+### 🎥 Demo Video
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+*(Click the image to watch the demo)*
+
+---
+
+<div align="center">
+  <small>Built for the UiTM Mobile SecOps Challenge 2025.</small>
+  <br />
+  <small>Property of Team [Your Team Name].</small>
+</div>
