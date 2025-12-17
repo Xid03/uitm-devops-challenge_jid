@@ -85,7 +85,6 @@ Our mission was to simulate a real **DevSecOps environment** using the Rentverse
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
